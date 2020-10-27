@@ -8,4 +8,5 @@ Olá! Bem vindo ao meu livro de receitas :wave:
 - Omelete
 - Farofa de frango
 - Cuscuz
+- Pavê
 
