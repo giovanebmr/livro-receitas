@@ -9,4 +9,5 @@ Olá! Bem vindo ao meu livro de receitas :wave:
 - Farofa de frango
 - Cuscuz
 - Pavê
+- Churrasco
 
